@@ -1,0 +1,154 @@
+
+.body{
+    /* background-image: url('./smartcity.png');
+    background-size: cover; */
+
+
+}
+.parent-div {
+
+    background-image: url('/public/clintonunsplash.jpg');
+
+    background-size: cover;
+    position: 'static',
+}
+
+
+
+.section{
+    margin: 0px 5px 0px 5px;
+     width: 100%;
+}
+
+.h3{
+
+    margin: 10px 0x 0px 0px;
+    text-align: center;
+    margin: 10px 0px 10px 0px;
+    color: rgb(199, 194, 194);
+    font-weight: bolder;
+
+}
+
+.card{
+    width: 300px;
+    height: 320px;
+    border: solid black;
+    padding: 0px 0px 0px 0px;
+    margin: 5px 0px 25px 15px;
+    margin-right: auto;
+    margin-left: auto;
+    color: white;
+}
+
+.card-title{
+    text-align: center;
+  }
+
+.card-body{
+    background-color: #1b0d0d;
+    margin: 0px 0px 0px 0px;
+    font-size: 20px;
+    border: solid black;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+ }
+ 
+ #github-logo{
+    margin: px 0px 0px 0px;
+    color: white;
+ }
+
+ .fa {
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa-facebook {
+    padding: 2px;
+    border-radius: 5px;
+    background: #3B5998;
+    color: white;
+  }
+
+
+
+
+ .card-img-top{
+    margin: 5px 0px 13px 0px;
+
+ }
+
+
+ @media only screen and (max-width: 768px) {
+    #section-id{
+          margin: 60px 0px 0px 0px ;
+
+   }
+   }
+
+
+
+ @media only screen and (max-width: 768px) {
+    #block-id{
+    margin: 25px 0px 0px 0px;    
+    padding: 1px 0px 0px 0px;
+   }
+   }
+
+
+ @media only screen and (max-width: 768px) {
+    .h3{
+     display: block;
+     width: auto;   
+     height: 35px;
+     margin: 0px 1px 0px 115px;
+     padding: 5px 0px 5px 0px;
+     font-size: 12px;
+     background-color: rgb(58, 55, 55);
+   }
+   }
+
+
+   @media only screen and (max-width: 768px) {
+    #row-id{
+    display: flexbox;
+    width: 350px;    
+    border-radius: 1px; 
+    margin: 5px 30px 0px 75px;    
+    padding: 1px 0px 0px 0px;
+    background-color: rgb(73, 161, 196);
+
+   }
+   }
+
+   @media only screen and (max-width: 768px) {
+    #col-div{
+    display: block;    
+    border-radius: 1px; 
+    margin: 5px 0px 0px 35px;    
+    padding: 1px 0px 0px 0px;
+   
+   }
+   }
+
+   @media only screen and (max-width: 768px) {
+    .card{
+    width: 250px;
+    height: 350px;
+    display: flexbox;
+    border-radius: 1px;
+    margin: 10px 0px 0px 10px;
+    padding: 1px 0px 0px 0px;
+   
+   }
+   }
+
+
+
+
+

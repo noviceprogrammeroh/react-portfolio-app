@@ -1,0 +1,139 @@
+
+.parent-div{
+  margin: 1px 0px 0px 0px ;
+
+}
+
+.contact-info-container{
+   
+    display: block;
+    margin : 5px 10px 0px 10px;
+    padding: 0px 50px 0px 50px;
+    font-size: 15px;
+  }
+
+.container-resume-body{
+    display: block;
+}
+
+
+.h1-resume{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+  color: white;
+}
+
+.h2-title{
+    color: white;
+    margin : 5px 10px 0px 10px;
+    padding: 0px 50px 0px 50px;
+}
+
+
+.h2-resume{
+  margin : 70px 10px 0px 10px;
+  padding: 0px 50px 0px 50px;
+  font-size: 12px;
+  color: rgb(210, 28, 28);
+}
+
+
+
+.p-contact-info{
+
+    margin : 5px 10px 0px 10px;
+    padding: 0px 50px 0px 50px;
+    font-size: 15px;
+    color: white;
+
+
+}
+
+
+.p{
+  margin : 5px 10px 0px 10px;
+  padding: 0px 50px 0px 50px;
+  font-size: 15px;
+  color: white;
+}
+
+
+
+.image {
+  height: 400px;
+  width: 300px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+ .button{
+    text-align: center;
+ }
+
+ .resume-download-btn{
+    text-align: center;
+    margin: 15px 800px 0px 800px;
+    width: 100px;
+    height: 45px;
+    color: white;
+    background-color: rgb(100, 0, 0);
+    border-radius: 20px;
+  }
+
+
+
+  @media only screen and (max-width: 768px) {
+    .h1-resume{
+    font-size: 30px;
+    margin: 100px 0px 0px 45px;
+  
+   }
+   }
+
+   @media only screen and (max-width: 768px) {
+    .h2-title{
+     margin: -30px 0px 0px 45px;
+  
+   }
+   }
+
+   @media only screen and (max-width: 768px) {
+    .p-contact-info{
+     margin: -5px 0px 0px 45px;
+  
+   }
+   }
+
+   @media only screen and (max-width: 768px) {
+    .h2-resume{
+     margin: 10px 0px 1px 45px;
+  
+   }
+   }
+   
+   @media only screen and (max-width: 768px) {
+    .p{
+     font-size: 10px;   
+     text-align:left;         
+     width: 450px;
+     height: 195px;   
+     margin: 1px 10px 1px 1px;
+  
+   }
+   }
+
+   
+   @media only screen and (max-width: 768px) {
+    .resume-download-btn{
+        text-align: center;
+        width: 95px;   
+        margin: 61px 1px 1px 115px;
+       
+   }
+   }
+
+

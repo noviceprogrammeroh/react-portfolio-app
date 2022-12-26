@@ -1,0 +1,100 @@
+
+
+.h1-contact{
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+
+.contact-form{
+ margin: 80px 0px 0px 0px;
+ margin-right: auto;
+ margin-left: auto;
+ width: 700px ;
+ height: 500px;
+ font-size: 14px;
+ color: white;
+}
+
+.a{
+  
+    float: left;
+    padding-left: 30px;
+}
+
+.errorMessage{
+    font-size: medium;
+    color: white;
+    text-align: center;
+}
+
+.parent-div-form {
+    margin: 0px 0px 0px 0px;
+}
+
+#request-field-id{
+    margin-top: 1px;
+    color: rgb(189, 30, 30);
+    visibility: hidden;
+    text-align: center;
+}
+
+.input-submit-btn{
+    width: 100px;
+    height: 45px;
+    color: white;
+    background-color: rgb(100, 0, 0);
+    border-radius: 20px;
+
+
+}
+
+@media only screen and (max-width: 768px) {
+    #parent-form-div-id{
+    height: auto;     
+     margin: 10px 0px 0px 0px;
+     font-size: 16px ;
+     /* background-color: rgb(59, 174, 178); */
+    
+   }
+   }
+
+
+@media only screen and (max-width: 768px) {
+    #h1-contact-id{
+    margin: 30px 0px 0px 120px;
+     font-size: 16px ;
+    
+   }
+   }
+
+
+@media only screen and (max-width: 768px) {
+    .contact-form {
+        width: 425px;
+        height: 425px;
+        border: solid white;
+        margin: 1px 40px 0px 40px;
+        background-color: rgb(94, 130, 197);
+        font-size: 12px;
+
+
+   }
+   }
+
+   /* @media only screen and (max-width: 768px) {
+    #error-message-id {
+        width: 10px;
+        height: px;
+        font-size: 10px; 
+        background-color: green;   
+
+   }
+   } */
+
+   span{
+    margin: 20px;
+    color: white;
+    float: right;
+   }
