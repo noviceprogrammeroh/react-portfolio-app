@@ -59,10 +59,10 @@ Contact
 Run the npm i command, to ensure the package.json has all the necessary dependencies to run the app. Run the npm start command to initialize the app and click on the GitHub icon to open the projects. Follow the readme instructions for each application in GitHub. 
 Most of the application were developed in JavaScript, Express.JS, SQl, Html, CSS and React.
 
-### Deployment:
+
 GitHub pages
-https://github.com/noviceprogrammeroh/React-Portfolio
+https://github.com/noviceprogrammeroh/react-portfolio-app
 
-
+### Deployment:
 
 
