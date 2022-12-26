@@ -60,8 +60,10 @@ Run the npm i command, to ensure the package.json has all the necessary dependen
 Most of the application were developed in JavaScript, Express.JS, SQl, Html, CSS and React.
 
 
-GitHub pages
+GitHub 
 https://github.com/noviceprogrammeroh/react-portfolio-app
+
+GitHub pages
 
 ### Deployment:
 
