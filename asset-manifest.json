@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-app/static/css/main.478b4abd.css",
+    "main.js": "/react-portfolio-app/static/js/main.3566bef7.js",
+    "static/media/socialmedia.jpg": "/react-portfolio-app/static/media/socialmedia.b525cf33941de28482c9.jpg",
+    "static/media/office.jpeg": "/react-portfolio-app/static/media/office.6ccf70188c4ada7c673e.jpeg",
+    "static/media/weatherdashboard.jpg": "/react-portfolio-app/static/media/weatherdashboard.6b8dcd356a7f2fc1d23c.jpg",
+    "static/media/kelly.jpg": "/react-portfolio-app/static/media/kelly.598eae2d720fc4f6259d.jpg",
+    "static/media/teamgenerator.jpg": "/react-portfolio-app/static/media/teamgenerator.b8d6177bcd03b96fc3ce.jpg",
+    "static/media/eventconcert.jpg": "/react-portfolio-app/static/media/eventconcert.32b71d08afcd8b9fc4a9.jpg",
+    "static/media/clintonunsplash.jpg": "/react-portfolio-app/static/media/clintonunsplash.e08f94b5ec4fcd891d02.jpg",
+    "static/media/Resume.pdf": "/react-portfolio-app/static/media/Resume.10769ce534130512290a.pdf",
+    "static/media/ecomerce.JPG": "/react-portfolio-app/static/media/ecomerce.816bf4b8b4202d43935a.JPG",
+    "static/media/myavatarpic.JPG": "/react-portfolio-app/static/media/myavatarpic.a96117fbc3eaacfc4406.JPG",
+    "index.html": "/react-portfolio-app/index.html",
+    "main.478b4abd.css.map": "/react-portfolio-app/static/css/main.478b4abd.css.map",
+    "main.3566bef7.js.map": "/react-portfolio-app/static/js/main.3566bef7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.478b4abd.css",
+    "static/js/main.3566bef7.js"
+  ]
+}
