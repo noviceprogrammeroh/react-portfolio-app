@@ -38,11 +38,11 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Screenshots
 Main Page
-![This is an image](./Assets/updatedmainscreenshot.JPG)
+![This is an image](/src/Assets/recentmainpage.JPG)
 About me
-![This is an image](./Assets/footer.JPG)
+![This is an image](/src/Assets/aboutme.JPG)
 Contact
-![This is an image](./Assets/contactform.JPG)
+![This is an image](/src/Assets/contactform.JPG)
 
 
 ### Projects
